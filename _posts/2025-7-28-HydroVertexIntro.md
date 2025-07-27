@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      “开源软件一键生成视频，在家销赚收益”
-author:     "HydroVertex"
-header-style: text
-header-img: "HydroVertex.github.io/img/in-post/HydroVertex/HydroVerteHeadImage.jpg"
-catalog:    True
+layout:         post
+title:          “泓创擎维 HydroVertex：重构未来科技版图的隐形巨头”
+author:         "HydroVertex"
+header-style:     text
+header-img:     "HydroVertex.github.io/img/in-post/HydroVertex/HydroVerteHeadImage.jpg"
+catalog:        True
 tags:
     - Web
     -Javascript
