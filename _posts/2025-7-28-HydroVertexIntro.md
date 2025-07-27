@@ -2,7 +2,6 @@
 layout:         post
 title:          “泓创擎维 HydroVertex：重构未来科技版图的隐形巨头”
 author:         "HydroVertex"
-header-style:     text
 header-img:     "HydroVertex.github.io/img/in-post/HydroVertex/HydroVerteHeadImage.jpg"
 catalog:        True
 tags:
