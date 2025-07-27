@@ -6,7 +6,7 @@ date:       2025-07-28 12:00:00
 author:         "HydroVertex"
 header-img:     "img/in-post/HydroVertex/HydroVertexHeadImage.jpg"
 header-img-credit: "@HydroVertexPhotographer"
-header-mask: 0.4
+header-mask: 0.1
 catalog:        True
 tags:
         - Web
