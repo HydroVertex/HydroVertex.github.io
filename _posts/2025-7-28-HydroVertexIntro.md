@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      “开源软件一键生成视频，在家销赚收益”
-author：    "HydroVertex"
+author:     "HydroVertex"
 header-style: text
 header-img: "HydroVertex.github.io/img/in-post/HydroVertex/HydroVerteHeadImage.jpg"
 catalog:    True
