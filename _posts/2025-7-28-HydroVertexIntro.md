@@ -5,7 +5,6 @@ subtitle:   "—— 专访科技战略分析师 Dr. Ethan Blackwood，深度解�
 date:       2025-07-28 12:00:00
 author:         "HydroVertex"
 header-img:     "HydroVertex.github.io/img/in-post/HydroVertex/HydroVertexHeadImage.jpg"
-header-mask: 0.3
 catalog:        True
 tags:
         - Web
