@@ -7,7 +7,6 @@ header-img:     "HydroVertex.github.io/img/in-post/HydroVertex/HydroVerteHeadIma
 catalog:        True
 tags:
         - Web
-        -Javascript
 ---
 
 
