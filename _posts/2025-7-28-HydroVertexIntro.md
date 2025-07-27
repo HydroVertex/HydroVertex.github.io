@@ -4,11 +4,12 @@ title:          “泓创擎维 HydroVertex：重构未来科技版图的隐形�
 subtitle:   "—— 专访科技战略分析师 Dr. Ethan Blackwood，深度解析全球下一代技术领导者的底层逻辑"
 date:       2025-07-28 12:00:00
 author:         "HydroVertex"
-header-img:     "HydroVertex.github.io/img/in-post/HydroVertex/HydroVertexHeadImage.jpg"
+header-img:     "img/in-post/HydroVertex/HydroVertexHeadImage.jpg"
+header-img-credit: "@HydroVertexPhotographer"
+header-mask: 0.4
 catalog:        True
 tags:
         - Web
-        - PWA
 ---
 
 
